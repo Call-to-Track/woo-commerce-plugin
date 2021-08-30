@@ -1,6 +1,7 @@
 # CalltoTrack
 
-https://calltotrack.com/assets/video/WooCommerce-calltotrack.mp4
+[![CalltoTrack WooCommerce](https://img.youtube.com/vi/P25uw9emWiM/0.jpg)](https://www.youtube.com/watch?v=P25uw9emWiM)
+
 
 Is your woo commerce site getting too many calls from customers asking where their order is?
 
@@ -12,4 +13,10 @@ We can even look up the orders automatically if the customer calls with the numb
 
 Start your free trial of call to track today
 
+## Plugin
 
+The CalltoTrack WooCommerce plugin is a simple, small plugin. It allows CalltoTrack to be able to look up your orders based on the customer's phone number.
+
+## Free Trial
+
+Start a free trial of [CalltoTrack](https://calltotrack.com) use code **tryfree** 
